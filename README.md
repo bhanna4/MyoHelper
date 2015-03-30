@@ -4,13 +4,19 @@ This is a program written using Visual Studio 2012 which allows a user with a My
 
 ##Movement controls
 Forward movement: closed fist
+
 Backwards movement: spread fingers
+
 Turn right: wave out
+
 Turn left: wave in
+
 
 ##Notes on Movement
 The turns will currently change in intervals of 45 degrees every 40th of a second
+
 The forward and backward motions will change at a speed of 2 pixels every 20th of a second
+
 **Note values are subject to change and may be different if readme not updated after each commit
 
 ##Next Steps
