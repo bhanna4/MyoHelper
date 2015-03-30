@@ -1,0 +1,32 @@
+  myoNazz.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly hello-myo-VisualStudio2013, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class hellomyoVisualStudio2012.myoNazz: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int64 start : Public
+    Double duration : Public
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.PictureBox pictureBox1 : Public
+    System.Windows.Forms.PictureBox pictureBox2 : Public
+    myoguyo guy IsByValue : Public, InitOnly
+    Int32 num : Public
+  Methods:
+    advance(): PrivateScope, Public, HideBySig
+    turn(SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    myoNazzFunc(SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    closeFunc(): PrivateScope, Public, HideBySig
